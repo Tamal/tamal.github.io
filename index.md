@@ -1,6 +1,3 @@
-## Tamal Mukherjee
-
-### Backend | API Development | AWS | Google Cloud
  Have extensive experience in developing scalable distributed web apps for various domains - Travel/Tourism, Trading, Auction, Healthcare (PHI/EHR), Real Estate (MLS), Document Management, Uber like on-demand/scheduling applications and bot development.
 
 #### Backend Skills:
