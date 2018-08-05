@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Tamal Mukherjee
 description: Backend | API Development | AWS | Google Cloud
+github:
+  is_project_page: false
