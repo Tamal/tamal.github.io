@@ -20,6 +20,6 @@
 
 #### Connect with me 
 
+* [Skype](skype:tamalmukherjee)
 * [Upwork](https://www.upwork.com/o/profiles/users/_~012e8b9b5c742cba32/)
-
 * [LinkedIn](https://www.linkedin.com/in/tamalm/)
