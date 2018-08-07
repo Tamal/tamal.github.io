@@ -2,16 +2,16 @@
 
 #### Backend Skills:
 - REST/GraphQL API development
-- SSO & OAuth using Auth0, Cognito
-- Python 3, Flask, Django 2, boto 3
-- TypeScript, Expressjs/Koa, AWS Lambda
+- Python 3, Flask, Django, boto 3
+- NumPy, Pandas, Scrapy, Matplotlib
+- NodeJS, TypeScript, Express, Lambda
 - Golang, gorm, sqlx, gin, beego
-- RabbitMQ, AWS Kinesis, SQS, PubNub
+- RabbitMQ, Celery, Kinesis, SQS, PubNub
 - MySQL / PostgreSQL; ElasticSearch
 - DynamoDB, MongoDB, Redis, ArangoDB
+- SSO & OAuth using Auth0, Cognito
 - Braintree / Stripe Payment integration
-- Git, Jenkins, Docker, Shell scripting
-- Experience in Linux admin & DevOps
+- Git, Jenkins, Docker
 
 #### Essential Frontend Skills:
 - JavaScript/Typescript, HTML5/CSS; webpack
