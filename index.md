@@ -1,22 +1,27 @@
- Have extensive experience in developing scalable distributed web apps for various domains - Travel/Tourism, Trading, Auction, Healthcare (PHI/EHR), Real Estate (MLS), Document Management, Uber like on-demand/scheduling applications and bot development.
+Using cutting edge technologies to deliver scalable distributed web application. My favorite backend stack is Node/Python for API development and Postgres/MongoDB for storage. I prefer to use RabbitMQ as message broker, ElasticSearch for backend search engine and Redis as cache. I also have skills to develop SPA using React & Redux.
+
+I have experience in following areas:
 
 #### Backend Skills:
 - REST/GraphQL API development
-- Python 3, Flask, Django, boto 3
-- NumPy, Pandas, Scrapy, Matplotlib
-- NodeJS, TypeScript, Express, Lambda
+- ES6/7, NodeJS, Express, TypeScript
+- AWS Lambda, Google Cloud function
 - Golang, gorm, sqlx, gin, beego
-- RabbitMQ, Celery, Kinesis, SQS, PubNub
-- MySQL / PostgreSQL; ElasticSearch
-- DynamoDB, MongoDB, Redis, ArangoDB
-- SSO & OAuth using Auth0, Cognito
+- Python 3, Flask, Django, Celery
+- RabbitMQ, Kinesis, SQS, PubNub
+- NATS Streaming, Kafka
+- MySQL, PostgreSQL; ElasticSearch
+- AWS DynamoDB, MongoDB, Redis
+- Google cloud Datastore, BigTable
+- Dialogflow (ex api.ai) integration
+- Auth0 / Cognito / Firebase integration
 - Braintree / Stripe Payment integration
-- Git, Jenkins, Docker
+- Git, Jenkins, Docker, App Engine
 
 #### Essential Frontend Skills:
 - JavaScript/Typescript, HTML5/CSS; webpack
 - React 16, Redux; Bootstrap/ant.design/material-ui
-- Backoffice Single Page app (SPA) development less
+- Single Page app (SPA) development
 
 #### Connect with me 
 
